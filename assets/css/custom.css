@@ -1,0 +1,5 @@
+.floating-sidebar {
+	position: -webkit-sticky; /* Safari */
+ 	position: sticky;
+ 	top: 16px;
+}
